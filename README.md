@@ -31,7 +31,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deployment
 
-- Netlify
+- Vercel
 
 # Links
 [Storefront](https://ecommerce-storefront-pi.vercel.app/)
