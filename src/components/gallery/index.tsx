@@ -1,6 +1,6 @@
 "use client";
 
-import { TabGroup, TabList, Tab, TabPanel, TabPanels } from "@headlessui/react";
+import { TabGroup, TabList, TabPanel, TabPanels } from "@headlessui/react";
 import Image from "next/image";
 
 import { Image as ImageType } from "@/types";
